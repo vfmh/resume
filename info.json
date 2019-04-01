@@ -1,0 +1,34 @@
+{
+    "name":"姓名",
+    "post":"岗位",
+    "motto":"一句话",
+    "content":[
+        {
+            "title":"项目经历",
+            "items":[
+                {
+                    "time":"2019.4.1",
+                    "name":"简历",
+                    "position":"前端开发 界面设计",
+                    "description":"这是一份个人设计的简历模板",
+                    "list":[
+                        "vue.js",
+                        "jspdf"
+                    ]
+                },
+                {
+                    "time":"2019.4.1",
+                    "name":"item2",
+                    "position":"item2 position",
+                    "description":"item2 description",
+                    "list":[
+                        "item2 list1",
+                        "item2 list2"
+                    ]
+                    
+                }
+            ]
+        }
+    ],
+    "latesttime":"2019年4月1日"
+}
